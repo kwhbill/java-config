@@ -4,7 +4,7 @@ server:
 #服务的名称
 spring:
   rabbitmq:
-    host: 172.18.230.234
+    host: 192.168.178.147
     port: 5672
     username: guest
     password: guest
